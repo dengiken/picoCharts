@@ -12,3 +12,16 @@ Please install Graphviz before install this plugin.
 * RHEL, CentOS...   `dnf install graphviz`
 
 Copy the 'PicoCharts.php' file to the 'plugins/' directory of your Pico Project.
+
+## DOT file example
+
+```
+digraph g {
+    graph [];
+    node [];
+    edge [];
+    a -> b;
+}
+```
+
+![example](example.dot.png)
