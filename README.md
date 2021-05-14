@@ -1,5 +1,5 @@
 # picoCharts
-Pico CMS plugin to show charts or graphs **dinamicaly** and **easly** by Graphviz.
+Pico CMS plugin to show charts or graphs **dynamically** and **easily** by Graphviz.
 
 * [Installation](#installation)
 
