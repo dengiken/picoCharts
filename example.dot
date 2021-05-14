@@ -1,0 +1,6 @@
+digraph g{
+    graph [];
+    node [];
+    edge [];
+    a -> b;
+}
