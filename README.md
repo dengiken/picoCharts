@@ -13,6 +13,10 @@ Please install Graphviz before install this plugin.
 
 Copy the 'PicoCharts.php' file to the 'plugins/' directory of your Pico Project.
 
+## Usage
+
+Put DOT formats file to your content direcory.
+
 ## DOT file example
 
 ```
