@@ -15,7 +15,7 @@ Copy the 'PicoCharts.php' file to the 'plugins/' directory of your Pico Project.
 
 ## Usage
 
-Put DOT formats file to your content direcory.
+Put DOT formats file to your content directory.
 
 ## DOT file example
 
