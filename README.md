@@ -17,7 +17,13 @@ Copy the 'PicoCharts.php' file to the 'plugins/' directory of your Pico Project.
 
 Put DOT formats file to your content directory.
 
-## DOT file example
+### Markdown
+
+```
+![alt][yourfile.dot]
+```
+
+### DOT file example
 
 ```
 digraph g {
