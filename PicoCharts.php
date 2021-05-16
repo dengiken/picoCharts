@@ -17,8 +17,11 @@ class PicoCharts extends AbstractPicoPlugin
      *
      * example:
      *      ![alt](yourchart.dot)
+     *      or
      *      <img src="sub/yourchart.dot" alt="alt">
-     *      http://yourdomain/yourchart.dot
+     *
+     *      direct access by web browser:
+     *          http://yourdomain/yourchart.dot
      * 
      * @author Dengiken.net
      * @link https://github.com/dengiken/picoCharts
