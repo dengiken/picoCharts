@@ -20,7 +20,7 @@ Put DOT formats file to your content directory.
 ### Markdown
 
 ```
-![alt][yourfile.dot]
+![alt](yourfile.dot)
 ```
 
 ### DOT file example
